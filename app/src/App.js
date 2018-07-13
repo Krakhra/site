@@ -94,17 +94,14 @@ class App extends Component {
                   <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">Java</span><br/>
                   <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">C</span><br/>
                   <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">JavaScript</span><br/>
-                  <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">Perl</span><br/>
-                  <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">Python</span><br/>
                   <span className="t2">Web</span> <br/>
                   <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">Node.js</span><br/>
                   <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">HTML5</span><br/>
-                  <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">CSS and SASS</span><br/>
+                  <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">CSS</span><br/>
                   <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">Bootstrap</span><br/>
                   <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">Express</span><br/>
                   <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">React</span><br/>
                   <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">PostgreSQL</span><br/>
-                  <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">mySQL</span><br/>
                 </div>
               </div>
             </div>
