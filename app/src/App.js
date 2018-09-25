@@ -65,9 +65,8 @@ class App extends Component {
                   <i className="fa fa-globe" id="t3"></i> <span id="t33">Hannon, Ontario</span><br/>
                   <i className="fa fa-calendar" id="t3"></i> <span id="t33">June 2018 - September 2018</span>
                   <p className="t4">
-                    A landscape Contracting company that helps design your vision. Recruited to help move 
-                    accounting system over to QuickBooks. Created programs that convert workbook reports from various 3rd party softwares to 
-                    a Quickbooks file type using C. 
+                    A landscape Contracting company that helps design your vision. Recruited to help integrate 3rd party software into new acounting software. 
+                    Created programs that automated data transfer from various contracting softwares using C. 
                   </p>
                   <i className="fa fa-code" id="wr"></i> <span className="t1">Projects</span><br/>
                   <i class="fa fa-bitcoin" id="t3"></i><span id="t33">Cryptocurrency Article Trends</span>
@@ -101,7 +100,18 @@ class App extends Component {
                   <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">Bootstrap</span><br/>
                   <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">Express</span><br/>
                   <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">React</span><br/>
-                  <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">PostgreSQL</span><br/>
+                  <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">PostgreSQL</span><br/><br/><br/>
+                  <i className="fa fa-star" id="wr"></i> <span className="t1">Hobbies</span><br/>
+                  <span id="t33">Soccer is my favourite sport, although I have stopped watching soccer games,
+                  I still enjoy playing. My preferred position is center mid-field.
+                  </span><br/><br/>
+                  <span id="t33">If I have spare time I enjoy playing League of Legends. It is my Favourite video game
+                  and I have achieved top 0.3% of players. Currently I play for the University team, and hope to win the upcoming season.
+                  </span><br/><br/>
+                  <span id="t33">My next goal is to become proficient in machine learning. I am currently reading Hands-On Machine Learning
+                  with Scikit-Learn and TensorFlow, and messing around with datasets. Recently, I used support vector machines to predict 
+                  who would survive on the Titanic, with the help of the Titanic dataset.
+                  </span>
                 </div>
               </div>
             </div>
