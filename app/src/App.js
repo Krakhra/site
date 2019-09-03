@@ -31,7 +31,7 @@ class App extends Component {
             }
           }}
         />
-        <div className="picture">
+        <div style={{marginTop:'50px'}} className="picture">
         </div>
 
         <div className="nameC">
@@ -51,7 +51,7 @@ class App extends Component {
         </div>
         
         <div className = "desc">
-          <p className="des"> Software Engineering student, passionate about front-end and excited about machine learning</p>
+          <p className="des"> Software Engineering student, passionate about tech and excited about machine learning</p>
         </div>
         
        <div className="cen"> 
@@ -60,7 +60,16 @@ class App extends Component {
               <div className="column">
                 <div className="box">
                   <i className="fa fa-wrench" id="wr"></i>   <span className="t1">Experience</span>
-                  <p className="t2">Intern</p>
+                  <p className="t2">Software Developer</p>
+                  <i className="fa fa-building" id="t3"></i> <span id="t33">Zhy Interactive -Royaltymine</span><br/>
+                  <i className="fa fa-globe" id="t3"></i> <span id="t33">Toronto, Ontario</span><br/>
+                  <i className="fa fa-calendar" id="t3"></i> <span id="t33">June 2019 - September 2019</span>
+                  <p className="t4">
+                    Royaltymine is an investment platform made to help the struggling artist. Artists are able to sell a portion of their songs for money, and investors will earn royalties for the portion they buy.
+                    I worked with the fullstack team using the MERN stack I worked on new features, creating endpoints, front-end components, and deployment to GCP! 
+                  </p>
+
+                  <p className="t2">Software Developer</p>
                   <i className="fa fa-building" id="t3"></i> <span id="t33">Oakridge</span><br/>
                   <i className="fa fa-globe" id="t3"></i> <span id="t33">Hannon, Ontario</span><br/>
                   <i className="fa fa-calendar" id="t3"></i> <span id="t33">June 2018 - September 2018</span>
@@ -68,6 +77,7 @@ class App extends Component {
                     A landscape Contracting company that helps design your vision. Recruited to help integrate 3rd party software into new acounting software. 
                     Created programs that automated data transfer from various contracting softwares using C. 
                   </p>
+
                   <i className="fa fa-code" id="wr"></i> <span className="t1">Projects</span><br/>
                   <i class="fa fa-bitcoin" id="t3"></i><span id="t33">Cryptocurrency Article Trends</span>
                   <p className ="t4">
@@ -87,7 +97,7 @@ class App extends Component {
               <div className="column" id="c2">
                 <div className="box">
                   <i className="fa fa-graduation-cap" id="wr"></i> <span className="t1">School</span>
-                  <p className="t4">Enrolled in the Software Engineering program at the University of Guelph with a minor in mathematics. Expected graduation date is May 2020</p>
+                  <p className="t4">Enrolled in the Software Engineering program at the University of Guelph with a minor in mathematics. Expected graduation date is May 2021</p>
                   <i className="fa fa-list-ol" id="wr"></i>  <span className="t1">Technical Skills</span><br/>
                   <span className="t2">Languages</span> <br/>
                   <i className="fa fa-angle-double-right" id="t3"></i> <span id="t33">Java</span><br/>

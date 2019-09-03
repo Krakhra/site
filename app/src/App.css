@@ -9,6 +9,7 @@
   z-index: 12;
   position: absolute;
   padding:0;
+  overflow:auto;
 }
 
 .test{
