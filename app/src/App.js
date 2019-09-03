@@ -66,7 +66,7 @@ class App extends Component {
                   <i className="fa fa-calendar" id="t3"></i> <span id="t33">June 2019 - September 2019</span>
                   <p className="t4">
                     Royaltymine is an investment platform made to help the struggling artist. Artists are able to sell a portion of their songs for money, and investors will earn royalties for the portion they buy.
-                    I worked with the fullstack team using the MERN stack I worked on new features, creating endpoints, front-end components, and deployment to GCP! 
+                    I worked with the fullstack team using the MERN stack I implemented new features, creating endpoints, front-end components, and deployment to GCP! 
                   </p>
 
                   <p className="t2">Software Developer</p>
